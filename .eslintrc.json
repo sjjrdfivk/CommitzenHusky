@@ -1,6 +1,0 @@
-{
-  "plugins": ["no-console"],
-  "rules": {
-    "no-console": ["error"]
-  }
-}
